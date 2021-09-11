@@ -6,13 +6,18 @@ The Trade Master is a program that allows users to view and trade items with eac
 The interface is of this program is a Java.swing GUI. To navigate through the program, first choose your preferred language (English or French). You will then be able to create a new user account or login either as a user or as an admin.
 
 ## INSTRUCTIONS:
-1. Go to Intellij and click run. Navigate to then click 'main'.
-	a) If an error occurs at this point, it is likely caused by corrupted .ser files in group_0110/phase2/data/, You may need to delete all .ser files and run the program again.
+1. Go to Intellij and click run. Navigate to then click 'main'. If an error occurs at this point, it is likely caused by corrupted .ser files in group_0110/phase2/data/, You may need to delete all .ser files and run the program again.
+
 2. At this point, you can:
+	
 	a) Create an account.
-    b) Login as either a admin or a user.
-    c) to login as an admin, use the username: "admin" and the password: "admin".
+	
+	b) Login as either a admin or a user.
+	
+	c) Use the username: "admin" and the password: "admin" to login as Admin
+	
 	d) More admin accounts can be created from the admin menu.
+	
 3. The relevant menu can be accessed and all functionality will be available at this point.
 
  ### IF USER:
@@ -20,7 +25,7 @@ The interface is of this program is a Java.swing GUI. To navigate through the pr
 
 An added feature is Metropolitan Area Selection, in which you can select the closest area in which you want to make trades. This area can later be changed, and you will only be able to see other users who are located in the same region.
 
-	User menu
+User menu:
 *  View items and wishlist
    * You can view your current items and wishlist, request to add an item, and remove items from your list or wishlist.
 *  View user stats
@@ -48,7 +53,6 @@ An added feature is Metropolitan Area Selection, in which you can select the clo
 
 
 ### IF ADMIN:
-     Admin Menu
 * Set borrow/lend threshold
 * Set complete trade threshold
 * Set incomplete trade threshold
