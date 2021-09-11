@@ -7,13 +7,12 @@ The interface is of this program is a Java.swing GUI. To navigate through the pr
 
 ## INSTRUCTIONS:
 1. Go to Intellij and click run. Navigate to then click 'main'.
-        (a) If an error occurs at this point, it is likely caused by corrupted .ser files in group_0110/phase2/data/
-            You may need to delete all .ser files and run the program again.
+	a) If an error occurs at this point, it is likely caused by corrupted .ser files in group_0110/phase2/data/, You may need to delete all .ser files and run the program again.
 2. At this point, you can:
-          (a) Create an account.
-        (b) Login as either a admin or a user.
-                (I) to login as an admin, use the username: "admin" and the password: "admin".
-                        (i) More admin accounts can be created from the admin menu.
+	a) Create an account.
+    b) Login as either a admin or a user.
+    c) to login as an admin, use the username: "admin" and the password: "admin".
+	d) More admin accounts can be created from the admin menu.
 3. The relevant menu can be accessed and all functionality will be available at this point.
 
  ### IF USER:
